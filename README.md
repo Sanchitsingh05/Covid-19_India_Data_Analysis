@@ -4,7 +4,7 @@
 This project performs a detailed **Exploratory Data Analysis (EDA)** and **visualization** of the latest COVID-19 statewise data in India. The goal is to understand the spread, severity, and trends of the pandemic across Indian states and Union Territories using real-world data. This analysis covers statistical summaries, geospatial mapping, correlation studies, and comprehensive visual reports for effective insight generation.
 
 ## 📂 Dataset
-* **Source**: [Latest COVID-19 India Statewise Data]([https://www.kaggle.com/datasets](https://github.com/Sanchitsingh05/Covid-19_India_Data_Analysis/blob/main/Latest%20Covid-19%20India%20Status.csv))
+* **Source**: [Latest COVID-19 India Statewise Data](https://github.com/Sanchitsingh05/Covid-19_India_Data_Analysis/blob/main/Latest%20Covid-19%20India%20Status.csv)
 * **Format**: CSV
 * **Attributes**:
 
